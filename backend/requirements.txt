@@ -1,0 +1,15 @@
+fastapi
+uvicorn
+sqlalchemy
+pymysql
+pydantic
+python-jose[cryptography]
+email-validator
+bcrypt
+passlib[bcrypt]
+python-multipart
+typing-inspect
+chromadb
+pypdf
+python-docx
+pymongo
